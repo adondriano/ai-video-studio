@@ -1,0 +1,55 @@
+{
+  "mode": "demo",
+  "projects_root": "C:\\ai-video-studio\\projects",
+  "projects": {
+    "try": {
+      "name": "try",
+      "folder": "C:\\ai-video-studio\\try",
+      "created_at": "2026-09-22T10:48:53"
+    }
+  },
+  "providers": {
+    "llm": {
+      "kind": "anthropic",
+      "api_key": "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",
+      "model": "claude-3-5-haiku-20241022",
+      "local_script": "",
+      "base_url": "http://127.0.0.1:4096",
+      "hf_provider": "auto",
+      "stability_steps": "10",
+      "stability_cfg_scale": "5"
+    },
+    "image": {
+      "kind": "stability",
+      "api_key": "sk-OmSEZMkIv1QqoOhYThXR4hrxVEWW2vHPfEyMFuEgpXqyKcLf",
+      "model": "stable-diffusion-xl-1024-v1-0",
+      "use_mcp": true,
+      "hf_provider": "auto",
+      "stability_steps": "5",
+      "stability_cfg_scale": "5",
+      "base_url": "",
+      "local_script": ""
+    },
+    "video": {
+      "kind": "local",
+      "api_key": "sk-OmSEZMkIv1QqoOhYThXR4hrxVEWW2vHPfEyMFuEgpXqyKcLf",
+      "model": "MiniMaxAI/MiniMax-H3",
+      "hf_provider": "auto",
+      "base_url": "",
+      "local_script": "",
+      "stability_steps": "10",
+      "stability_cfg_scale": "5"
+    },
+    "voice": {
+      "kind": "local",
+      "api_key": "",
+      "voice_id": "",
+      "base_url": "",
+      "hf_provider": "auto",
+      "local_script": "",
+      "model": "urn:air:fluxai:model:fluxai:flux-2-pro@1",
+      "stability_steps": "10",
+      "stability_cfg_scale": "5"
+    }
+  }
+}

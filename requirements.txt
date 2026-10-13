@@ -1,0 +1,4 @@
+Flask>=3.0,<4
+Pillow>=10.0
+requests>=2.31
+huggingface_hub>=1.7.0

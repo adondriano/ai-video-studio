@@ -1,0 +1,1352 @@
+{
+  "REF_realism.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:38",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "REF_realism.mp4",
+      "analyzed": "2026-09-22T10:51:26",
+      "hook": "Bold claim + proof tease",
+      "topic": "realism",
+      "structure": "15s: Hook \u2192 Problem \u2192 Product \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Bold claim + proof tease' matches the realism audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Bold claim + proof tease' opening family for our next realism brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:26"
+  },
+  "REF_tradesperson-believes.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:38",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "REF_tradesperson-believes.mp4",
+      "analyzed": "2026-09-22T10:51:23",
+      "hook": "Pattern-interrupt",
+      "topic": "tradesperson believes",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Pattern-interrupt' matches the tradesperson believes audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Pattern-interrupt' opening family for our next tradesperson believes brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:23"
+  },
+  "REF-felt-step.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:38",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "REF-felt-step.mp4",
+      "analyzed": "2026-09-22T10:51:19",
+      "hook": "Pattern-interrupt",
+      "topic": "felt step",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Pattern-interrupt' matches the felt step audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Pattern-interrupt' opening family for our next felt step brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Hybrid: 2s cuts, 4s breathers on proof beats",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:19"
+  },
+  "STP-001_day-12.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:38",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-001_day-12.mp4",
+      "analyzed": "2026-09-22T10:51:17",
+      "hook": "Pattern-interrupt",
+      "topic": "its category",
+      "structure": "15s: Hook \u2192 Problem \u2192 Product \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Pattern-interrupt' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Pattern-interrupt' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Hybrid: 2s cuts, 4s breathers on proof beats",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:17"
+  },
+  "STP-002_ceo-warehouse.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:38",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-002_ceo-warehouse.mp4",
+      "analyzed": "2026-09-22T10:51:15",
+      "hook": "Question loop",
+      "topic": "warehouse",
+      "structure": "15s: Hook \u2192 Problem \u2192 Product \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Question loop' matches the warehouse audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Question loop' opening family for our next warehouse brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Hybrid: 2s cuts, 4s breathers on proof beats",
+      "cta": "Question CTA: \u201cstill doing it the old way?\u201d \u2192 product shot",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:15"
+  },
+  "STP-003.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:38",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-003.mp4",
+      "analyzed": "2026-09-22T10:51:13",
+      "hook": "Question loop",
+      "topic": "its category",
+      "structure": "Story arc: protagonist pain \u2192 discovery \u2192 payoff montage \u2192 stinger",
+      "why_worked": [
+        "Hook type 'Question loop' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Question loop' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Hybrid: 2s cuts, 4s breathers on proof beats",
+      "cta": "Question CTA: \u201cstill doing it the old way?\u201d \u2192 product shot",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:13"
+  },
+  "STP-004.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:38",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-004.mp4",
+      "analyzed": "2026-09-22T10:51:11",
+      "hook": "POV immersion",
+      "topic": "its category",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'POV immersion' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'POV immersion' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Soft CTA: \u201clink's below\u201d + handheld product hold",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:11"
+  },
+  "STP-005.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:38",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-005.mp4",
+      "analyzed": "2026-09-22T10:51:08",
+      "hook": "Negative hook",
+      "topic": "its category",
+      "structure": "15s: Hook \u2192 Problem \u2192 Product \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Negative hook' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Negative hook' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Hybrid: 2s cuts, 4s breathers on proof beats",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:08"
+  },
+  "STP-006.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:38",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-006.mp4",
+      "analyzed": "2026-09-22T10:51:06",
+      "hook": "Pattern-interrupt",
+      "topic": "its category",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Pattern-interrupt' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Pattern-interrupt' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:06"
+  },
+  "STP-007.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-007.mp4",
+      "analyzed": "2026-09-22T10:50:23",
+      "hook": "Question loop",
+      "topic": "its category",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Question loop' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Question loop' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Question CTA: \u201cstill doing it the old way?\u201d \u2192 product shot",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:23"
+  },
+  "STP-008.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-008.mp4",
+      "analyzed": "2026-09-22T10:50:36",
+      "hook": "Bold claim + proof tease",
+      "topic": "its category",
+      "structure": "Story arc: protagonist pain \u2192 discovery \u2192 payoff montage \u2192 stinger",
+      "why_worked": [
+        "Hook type 'Bold claim + proof tease' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Bold claim + proof tease' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:36"
+  },
+  "STP-009.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-009.mp4",
+      "analyzed": "2026-09-22T10:50:39",
+      "hook": "Negative hook",
+      "topic": "its category",
+      "structure": "15s: Hook \u2192 Problem \u2192 Product \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Negative hook' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Negative hook' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Cinematic: 2.5\u20134s cuts, beat-synced to VO emphasis",
+      "cta": "Question CTA: \u201cstill doing it the old way?\u201d \u2192 product shot",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:39"
+  },
+  "STP-010.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-010.mp4",
+      "analyzed": "2026-09-22T10:50:41",
+      "hook": "Negative hook",
+      "topic": "its category",
+      "structure": "Story arc: protagonist pain \u2192 discovery \u2192 payoff montage \u2192 stinger",
+      "why_worked": [
+        "Hook type 'Negative hook' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Negative hook' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Cinematic: 2.5\u20134s cuts, beat-synced to VO emphasis",
+      "cta": "Soft CTA: \u201clink's below\u201d + handheld product hold",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:41"
+  },
+  "STP-011.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-011.mp4",
+      "analyzed": "2026-09-22T10:50:44",
+      "hook": "Pattern-interrupt",
+      "topic": "its category",
+      "structure": "15s: Hook \u2192 Problem \u2192 Product \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Pattern-interrupt' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Pattern-interrupt' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Hybrid: 2s cuts, 4s breathers on proof beats",
+      "cta": "Question CTA: \u201cstill doing it the old way?\u201d \u2192 product shot",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:44"
+  },
+  "STP-012.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-012.mp4",
+      "analyzed": "2026-09-22T10:50:48",
+      "hook": "Question loop",
+      "topic": "its category",
+      "structure": "Story arc: protagonist pain \u2192 discovery \u2192 payoff montage \u2192 stinger",
+      "why_worked": [
+        "Hook type 'Question loop' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Question loop' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Hybrid: 2s cuts, 4s breathers on proof beats",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:48"
+  },
+  "STP-013.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-013.mp4",
+      "analyzed": "2026-09-22T10:50:50",
+      "hook": "Pattern-interrupt",
+      "topic": "its category",
+      "structure": "Story arc: protagonist pain \u2192 discovery \u2192 payoff montage \u2192 stinger",
+      "why_worked": [
+        "Hook type 'Pattern-interrupt' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Pattern-interrupt' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Soft CTA: \u201clink's below\u201d + handheld product hold",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:50"
+  },
+  "STP-014.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-014.mp4",
+      "analyzed": "2026-09-22T10:50:53",
+      "hook": "Negative hook",
+      "topic": "its category",
+      "structure": "Story arc: protagonist pain \u2192 discovery \u2192 payoff montage \u2192 stinger",
+      "why_worked": [
+        "Hook type 'Negative hook' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Negative hook' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Question CTA: \u201cstill doing it the old way?\u201d \u2192 product shot",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:53"
+  },
+  "STP-015.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-015.mp4",
+      "analyzed": "2026-09-22T10:50:56",
+      "hook": "Negative hook",
+      "topic": "its category",
+      "structure": "Story arc: protagonist pain \u2192 discovery \u2192 payoff montage \u2192 stinger",
+      "why_worked": [
+        "Hook type 'Negative hook' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Negative hook' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Soft CTA: \u201clink's below\u201d + handheld product hold",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:56"
+  },
+  "STP-016.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-016.mp4",
+      "analyzed": "2026-09-22T10:51:01",
+      "hook": "POV immersion",
+      "topic": "its category",
+      "structure": "15s: Hook \u2192 Problem \u2192 Product \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'POV immersion' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'POV immersion' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Cinematic: 2.5\u20134s cuts, beat-synced to VO emphasis",
+      "cta": "Soft CTA: \u201clink's below\u201d + handheld product hold",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:01"
+  },
+  "STP-017.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-017.mp4",
+      "analyzed": "2026-09-22T10:51:30",
+      "hook": "Question loop",
+      "topic": "its category",
+      "structure": "15s: Hook \u2192 Problem \u2192 Product \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Question loop' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Question loop' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Question CTA: \u201cstill doing it the old way?\u201d \u2192 product shot",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:30"
+  },
+  "STP-018.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-018.mp4",
+      "analyzed": "2026-09-22T10:51:32",
+      "hook": "POV immersion",
+      "topic": "its category",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'POV immersion' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'POV immersion' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Hybrid: 2s cuts, 4s breathers on proof beats",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:32"
+  },
+  "STP-019.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-019.mp4",
+      "analyzed": "2026-09-22T10:51:34",
+      "hook": "Pattern-interrupt",
+      "topic": "its category",
+      "structure": "Story arc: protagonist pain \u2192 discovery \u2192 payoff montage \u2192 stinger",
+      "why_worked": [
+        "Hook type 'Pattern-interrupt' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Pattern-interrupt' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Cinematic: 2.5\u20134s cuts, beat-synced to VO emphasis",
+      "cta": "Soft CTA: \u201clink's below\u201d + handheld product hold",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:34"
+  },
+  "STP-020.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-020.mp4",
+      "analyzed": "2026-09-22T10:51:37",
+      "hook": "Negative hook",
+      "topic": "its category",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Negative hook' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Negative hook' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Cinematic: 2.5\u20134s cuts, beat-synced to VO emphasis",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:37"
+  },
+  "STP-021.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-021.mp4",
+      "analyzed": "2026-09-22T10:51:39",
+      "hook": "Question loop",
+      "topic": "its category",
+      "structure": "15s: Hook \u2192 Problem \u2192 Product \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Question loop' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Question loop' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Cinematic: 2.5\u20134s cuts, beat-synced to VO emphasis",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:39"
+  },
+  "STP-022.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-022.mp4",
+      "analyzed": "2026-09-22T10:51:41",
+      "hook": "Bold claim + proof tease",
+      "topic": "its category",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Bold claim + proof tease' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Bold claim + proof tease' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:41"
+  },
+  "STP-023.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-023.mp4",
+      "analyzed": "2026-09-22T10:51:43",
+      "hook": "Negative hook",
+      "topic": "its category",
+      "structure": "Story arc: protagonist pain \u2192 discovery \u2192 payoff montage \u2192 stinger",
+      "why_worked": [
+        "Hook type 'Negative hook' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Negative hook' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Hybrid: 2s cuts, 4s breathers on proof beats",
+      "cta": "Question CTA: \u201cstill doing it the old way?\u201d \u2192 product shot",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:43"
+  },
+  "STP-024.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-024.mp4",
+      "analyzed": "2026-09-22T10:51:46",
+      "hook": "Bold claim + proof tease",
+      "topic": "its category",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Bold claim + proof tease' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Bold claim + proof tease' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Cinematic: 2.5\u20134s cuts, beat-synced to VO emphasis",
+      "cta": "Question CTA: \u201cstill doing it the old way?\u201d \u2192 product shot",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:46"
+  },
+  "STP-025.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-025.mp4",
+      "analyzed": "2026-09-22T10:51:48",
+      "hook": "Pattern-interrupt",
+      "topic": "its category",
+      "structure": "15s: Hook \u2192 Problem \u2192 Product \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Pattern-interrupt' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Pattern-interrupt' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Cinematic: 2.5\u20134s cuts, beat-synced to VO emphasis",
+      "cta": "Soft CTA: \u201clink's below\u201d + handheld product hold",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:48"
+  },
+  "STP-026.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-026.mp4",
+      "analyzed": "2026-09-22T10:51:51",
+      "hook": "POV immersion",
+      "topic": "its category",
+      "structure": "Story arc: protagonist pain \u2192 discovery \u2192 payoff montage \u2192 stinger",
+      "why_worked": [
+        "Hook type 'POV immersion' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'POV immersion' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Cinematic: 2.5\u20134s cuts, beat-synced to VO emphasis",
+      "cta": "Soft CTA: \u201clink's below\u201d + handheld product hold",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:51"
+  },
+  "STP-027.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-027.mp4",
+      "analyzed": "2026-09-22T10:51:53",
+      "hook": "Pattern-interrupt",
+      "topic": "its category",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Pattern-interrupt' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Pattern-interrupt' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Cinematic: 2.5\u20134s cuts, beat-synced to VO emphasis",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:53"
+  },
+  "STP-028.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-028.mp4",
+      "analyzed": "2026-09-22T10:51:56",
+      "hook": "Negative hook",
+      "topic": "its category",
+      "structure": "15s: Hook \u2192 Problem \u2192 Product \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Negative hook' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Negative hook' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Hybrid: 2s cuts, 4s breathers on proof beats",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:51:56"
+  },
+  "STP-029.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-029.mp4",
+      "analyzed": "2026-09-22T10:52:10",
+      "hook": "Bold claim + proof tease",
+      "topic": "its category",
+      "structure": "Story arc: protagonist pain \u2192 discovery \u2192 payoff montage \u2192 stinger",
+      "why_worked": [
+        "Hook type 'Bold claim + proof tease' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Bold claim + proof tease' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:52:10"
+  },
+  "STP-030.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-030.mp4",
+      "analyzed": "2026-09-22T10:52:13",
+      "hook": "Pattern-interrupt",
+      "topic": "its category",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Pattern-interrupt' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Pattern-interrupt' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Question CTA: \u201cstill doing it the old way?\u201d \u2192 product shot",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:52:13"
+  },
+  "STP-031.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:39",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-031.mp4",
+      "analyzed": "2026-09-22T10:52:15",
+      "hook": "Bold claim + proof tease",
+      "topic": "its category",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Bold claim + proof tease' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Bold claim + proof tease' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Soft CTA: \u201clink's below\u201d + handheld product hold",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:52:15"
+  },
+  "STP-032.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:40",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-032.mp4",
+      "analyzed": "2026-09-22T10:49:54",
+      "hook": "Pattern-interrupt",
+      "topic": "its category",
+      "structure": "15s: Hook \u2192 Problem \u2192 Product \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Pattern-interrupt' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Pattern-interrupt' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Cinematic: 2.5\u20134s cuts, beat-synced to VO emphasis",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:49:54"
+  },
+  "STP-033.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:40",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-033.mp4",
+      "analyzed": "2026-09-22T10:49:56",
+      "hook": "Bold claim + proof tease",
+      "topic": "its category",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Bold claim + proof tease' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Bold claim + proof tease' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:49:56"
+  },
+  "STP-034.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:40",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-034.mp4",
+      "analyzed": "2026-09-22T10:49:57",
+      "hook": "Question loop",
+      "topic": "its category",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Question loop' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Question loop' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Cinematic: 2.5\u20134s cuts, beat-synced to VO emphasis",
+      "cta": "Soft CTA: \u201clink's below\u201d + handheld product hold",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:49:57"
+  },
+  "STP-035.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:40",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-035.mp4",
+      "analyzed": "2026-09-22T10:49:59",
+      "hook": "Question loop",
+      "topic": "its category",
+      "structure": "15s: Hook \u2192 Problem \u2192 Product \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Question loop' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Question loop' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Cinematic: 2.5\u20134s cuts, beat-synced to VO emphasis",
+      "cta": "Soft CTA: \u201clink's below\u201d + handheld product hold",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:49:59"
+  },
+  "STP-036.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:40",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-036.mp4",
+      "analyzed": "2026-09-22T10:50:00",
+      "hook": "Question loop",
+      "topic": "its category",
+      "structure": "Story arc: protagonist pain \u2192 discovery \u2192 payoff montage \u2192 stinger",
+      "why_worked": [
+        "Hook type 'Question loop' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Question loop' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:00"
+  },
+  "STP-037.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:40",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-037.mp4",
+      "analyzed": "2026-09-22T10:50:02",
+      "hook": "Negative hook",
+      "topic": "its category",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Negative hook' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Negative hook' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Cinematic: 2.5\u20134s cuts, beat-synced to VO emphasis",
+      "cta": "Question CTA: \u201cstill doing it the old way?\u201d \u2192 product shot",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:02"
+  },
+  "STP-038.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:40",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-038.mp4",
+      "analyzed": "2026-09-22T10:50:04",
+      "hook": "Negative hook",
+      "topic": "its category",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Negative hook' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Negative hook' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Question CTA: \u201cstill doing it the old way?\u201d \u2192 product shot",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:04"
+  },
+  "STP-039.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:40",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-039.mp4",
+      "analyzed": "2026-09-22T10:50:05",
+      "hook": "Bold claim + proof tease",
+      "topic": "its category",
+      "structure": "Story arc: protagonist pain \u2192 discovery \u2192 payoff montage \u2192 stinger",
+      "why_worked": [
+        "Hook type 'Bold claim + proof tease' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Bold claim + proof tease' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Hybrid: 2s cuts, 4s breathers on proof beats",
+      "cta": "Question CTA: \u201cstill doing it the old way?\u201d \u2192 product shot",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:05"
+  },
+  "STP-040.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:40",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-040.mp4",
+      "analyzed": "2026-09-22T10:50:09",
+      "hook": "POV immersion",
+      "topic": "its category",
+      "structure": "15s: Hook \u2192 Problem \u2192 Product \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'POV immersion' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'POV immersion' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Soft CTA: \u201clink's below\u201d + handheld product hold",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:09"
+  },
+  "STP-041.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:40",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-041.mp4",
+      "analyzed": "2026-09-22T10:50:11",
+      "hook": "Negative hook",
+      "topic": "its category",
+      "structure": "Story arc: protagonist pain \u2192 discovery \u2192 payoff montage \u2192 stinger",
+      "why_worked": [
+        "Hook type 'Negative hook' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Negative hook' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Hybrid: 2s cuts, 4s breathers on proof beats",
+      "cta": "Hard CTA: discount + deadline on end card",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:11"
+  },
+  "STP-042.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:40",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-042.mp4",
+      "analyzed": "2026-09-22T10:50:13",
+      "hook": "POV immersion",
+      "topic": "its category",
+      "structure": "Story arc: protagonist pain \u2192 discovery \u2192 payoff montage \u2192 stinger",
+      "why_worked": [
+        "Hook type 'POV immersion' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'POV immersion' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Soft CTA: \u201clink's below\u201d + handheld product hold",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:13"
+  },
+  "STP-043.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:40",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-043.mp4",
+      "analyzed": "2026-09-22T10:50:15",
+      "hook": "Bold claim + proof tease",
+      "topic": "its category",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Bold claim + proof tease' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Bold claim + proof tease' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Question CTA: \u201cstill doing it the old way?\u201d \u2192 product shot",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:15"
+  },
+  "STP-044.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:40",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-044.mp4",
+      "analyzed": "2026-09-22T10:50:17",
+      "hook": "Bold claim + proof tease",
+      "topic": "its category",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Bold claim + proof tease' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Bold claim + proof tease' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Cinematic: 2.5\u20134s cuts, beat-synced to VO emphasis",
+      "cta": "Question CTA: \u201cstill doing it the old way?\u201d \u2192 product shot",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:17"
+  },
+  "STP-045.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:40",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-045.mp4",
+      "analyzed": "2026-09-22T10:50:19",
+      "hook": "Question loop",
+      "topic": "its category",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Question loop' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Question loop' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Cinematic: 2.5\u20134s cuts, beat-synced to VO emphasis",
+      "cta": "Soft CTA: \u201clink's below\u201d + handheld product hold",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:19"
+  },
+  "STP-046.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:40",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-046.mp4",
+      "analyzed": "2026-09-22T10:50:21",
+      "hook": "Negative hook",
+      "topic": "its category",
+      "structure": "30s: Hook \u2192 Agitate \u2192 Reveal \u2192 3 benefits \u2192 Proof \u2192 CTA",
+      "why_worked": [
+        "Hook type 'Negative hook' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Negative hook' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Fast UGC rhythm: cuts every 1.2\u20132.0s",
+      "cta": "Question CTA: \u201cstill doing it the old way?\u201d \u2192 product shot",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:50:21"
+  },
+  "STP-047.mp4": {
+    "processed": true,
+    "uploaded": "2026-09-22T10:49:41",
+    "insights": {
+      "engine": "demo-brain",
+      "file": "STP-047.mp4",
+      "analyzed": "2026-09-22T10:49:49",
+      "hook": "Negative hook",
+      "topic": "its category",
+      "structure": "Story arc: protagonist pain \u2192 discovery \u2192 payoff montage \u2192 stinger",
+      "why_worked": [
+        "Hook type 'Negative hook' matches the its category audience's scroll-state \u2014 stops the thumb in <1s.",
+        "Product is recognizable by scene 2; proof (not adjectives) carries the middle third.",
+        "Pacing respects cut-rhythm discipline \u2014 no two consecutive shots share framing.",
+        "Single CTA with one reason and one urgency cue; end-card mirrors the spoken words."
+      ],
+      "steal": [
+        "Reuse the 'Negative hook' opening family for our next its category brief, reskinned to our product.",
+        "Copy the proof-first mid-section: show receipts/timers before any benefit claim.",
+        "Mirror their CTA split: pivot phrase early, then the last ~15% is CTA territory only."
+      ],
+      "pacing": "Cinematic: 2.5\u20134s cuts, beat-synced to VO emphasis",
+      "cta": "Soft CTA: \u201clink's below\u201d + handheld product hold",
+      "verdict": "Patterns folded into Mastery.md (Learnings Log + consolidated sections)."
+    },
+    "processed_at": "2026-09-22T10:49:49"
+  }
+}

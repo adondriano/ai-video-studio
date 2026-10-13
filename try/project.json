@@ -1,0 +1,473 @@
+{
+  "id": "try",
+  "name": "try",
+  "folder": "C:\\ai-video-studio\\try",
+  "created_at": "2026-09-22T10:48:53",
+  "updated": "2026-10-13T22:21:04",
+  "stage": "approval",
+  "brief": {
+    "text": "Every hiker believes these three things about insoles, all three are wrong.\r\n\r\nLie number one, gel insoles stop the pain.\r\n\r\nNo they don't, you're just padding the problem.\r\n\r\nThat gel flattens by mile 9 and the pressure still slams your heel every step.\r\n\r\nYou\u2019re not relieving anything, you\u2019re just hiding it. \r\n\t\r\nLie number two, sore feet are just part of hiking.\r\n\t\r\nThat\u2019s what I believed for 10 years.\r\n\r\nThen my buddy on a backpacking trip let me try his spare pair of Stepprs.\r\n\r\nThey\u2019re built with firm massage nodes, and the nodes actually redistribute the load.\r\n\r\nSo instead of just slightly cushioning your heel and arch like gel insoles, with Stepprs the pressure spreads off the spots that hurt.\r\n\r\n15 miles into the day, my feet felt like mile one still.  \r\n\r\nTo be honest, I thought something was wrong.",
+    "style": "cinematic",
+    "aspect_ratio": "9:16",
+    "reference": null,
+    "reference_note": "",
+    "voiceover": null,
+    "transcript": "",
+    "transcript_source": ""
+  },
+  "package": {
+    "engine": "demo-brain",
+    "style": "cinematic",
+    "version": 1,
+    "created": "2026-09-23T21:10:26",
+    "target_duration": 30,
+    "reference_used": false,
+    "scenes": [
+      {
+        "id": "SC-01",
+        "title": "Every hiker believes these three",
+        "beat": "HOOK",
+        "visual": "PATTERN-INTERRUPT \u2014 Maya \u2014 hands-first insert; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: hook (first frame readable at 10% brightness, per Mastery \u00a71)",
+        "vo": "Every hiker believes these three things about insoles, all three are wrong.",
+        "duration": 3.0
+      },
+      {
+        "id": "SC-02",
+        "title": "Lie number one, gel insoles",
+        "beat": "PROBLEM",
+        "visual": "Leo \u2014 hands-first insert; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: problem",
+        "vo": "Lie number one, gel insoles stop the pain.",
+        "duration": 3.0
+      },
+      {
+        "id": "SC-03",
+        "title": "No they don't, you're just",
+        "beat": "PROOF",
+        "visual": "Maya \u2014 hands-first insert; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: proof",
+        "vo": "No they don't, you're just padding the problem.",
+        "duration": 3.0
+      },
+      {
+        "id": "SC-04",
+        "title": "That gel flattens by mile",
+        "beat": "ESCALATE",
+        "visual": "Leo \u2014 direct to camera; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: escalate",
+        "vo": "That gel flattens by mile 9 and the pressure still slams your heel every step.",
+        "duration": 3.0
+      },
+      {
+        "id": "SC-05",
+        "title": "You\u2019re not relieving anything, you\u2019re",
+        "beat": "PROBLEM",
+        "visual": "Maya \u2014 in profile, lit by window; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: problem",
+        "vo": "You\u2019re not relieving anything, you\u2019re just hiding it.",
+        "duration": 3.0
+      },
+      {
+        "id": "SC-06",
+        "title": "Lie number two, sore feet",
+        "beat": "AGITATE",
+        "visual": "Leo \u2014 in profile, lit by window; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: agitate",
+        "vo": "Lie number two, sore feet are just part of hiking.",
+        "duration": 3.0
+      },
+      {
+        "id": "SC-07",
+        "title": "That\u2019s what I believed for",
+        "beat": "ESCALATE",
+        "visual": "Maya \u2014 direct to camera; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: escalate",
+        "vo": "That\u2019s what I believed for 10 years.",
+        "duration": 3.0
+      },
+      {
+        "id": "SC-08",
+        "title": "Then my buddy on a",
+        "beat": "ESCALATE",
+        "visual": "Leo \u2014 in profile, lit by window; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: escalate",
+        "vo": "Then my buddy on a backpacking trip let me try his spare pair of Stepprs.",
+        "duration": 3.0
+      },
+      {
+        "id": "SC-09",
+        "title": "They\u2019re built with firm massage",
+        "beat": "ESCALATE",
+        "visual": "Maya \u2014 mid-action, interrupted frame; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: escalate",
+        "vo": "They\u2019re built with firm massage nodes, and the nodes actually redistribute the load.",
+        "duration": 3.0
+      },
+      {
+        "id": "SC-10",
+        "title": "So instead of just slightly",
+        "beat": "CTA",
+        "visual": "Leo \u2014 hands-first insert; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: cta",
+        "vo": "So instead of just slightly cushioning your heel and arch like gel insoles, with Stepprs the pressure spreads off the spots that hurt. 15 miles into the day, my feet felt like mile one still. To be honest, I thought something was wrong.",
+        "duration": 3.0
+      }
+    ],
+    "cta": {
+      "line": "To be honest, I thought something was wrong.",
+      "on_screen": "To be honest, I thought something was wrong.",
+      "vo": "To be honest, I thought something was wrong.",
+      "timing": "final 4s (\u2248 last 15% of runtime, per Mastery \u00a75)",
+      "formula": "1 action + 1 reason + 1 urgency cue"
+    },
+    "shots": [
+      {
+        "scene_id": "SC-01",
+        "shot": "Low angle",
+        "lens": "24mm",
+        "movement": "whip-in from right",
+        "notes": "Match key-light direction with ENV mint."
+      },
+      {
+        "scene_id": "SC-02",
+        "shot": "Establishing wide",
+        "lens": "35mm",
+        "movement": "whip-in from right",
+        "notes": "Match key-light direction with ENV mint."
+      },
+      {
+        "scene_id": "SC-03",
+        "shot": "Close-up",
+        "lens": "24mm",
+        "movement": "gentle orbit 20\u00b0",
+        "notes": "Product legible in frame."
+      },
+      {
+        "scene_id": "SC-04",
+        "shot": "Macro product",
+        "lens": "28mm",
+        "movement": "crane up",
+        "notes": "Match key-light direction with ENV mint."
+      },
+      {
+        "scene_id": "SC-05",
+        "shot": "Low angle",
+        "lens": "85mm",
+        "movement": "crane up",
+        "notes": "Hold 3 frames past comfort for retention."
+      },
+      {
+        "scene_id": "SC-06",
+        "shot": "Macro product",
+        "lens": "100mm macro",
+        "movement": "static lockoff",
+        "notes": "Hold 3 frames past comfort for retention."
+      },
+      {
+        "scene_id": "SC-07",
+        "shot": "Insert / detail",
+        "lens": "100mm macro",
+        "movement": "crane up",
+        "notes": "Hold 3 frames past comfort for retention."
+      },
+      {
+        "scene_id": "SC-08",
+        "shot": "Macro product",
+        "lens": "35mm",
+        "movement": "slow push-in",
+        "notes": "Cut on VO emphasis (Mastery \u00a73)."
+      },
+      {
+        "scene_id": "SC-09",
+        "shot": "Macro product",
+        "lens": "50mm",
+        "movement": "gentle orbit 20\u00b0",
+        "notes": "Cut on VO emphasis (Mastery \u00a73)."
+      },
+      {
+        "scene_id": "SC-10",
+        "shot": "Low angle",
+        "lens": "85mm",
+        "movement": "slider left\u2192right",
+        "notes": "Hold 3 frames past comfort for retention."
+      }
+    ],
+    "characters": [
+      {
+        "token": "CHAR_MAYA",
+        "name": "Maya",
+        "role": "Protagonist",
+        "mint_prompt": "cinematic character mint of 'Maya' (protagonist): consistent face sheet, 3/4 + front + profile views, neutral expression + smile, wardrobe simple, anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade. Stable ID: CHAR_MAYA \u2014 reuse in every prompt to prevent drift."
+      },
+      {
+        "token": "CHAR_LEO",
+        "name": "Leo",
+        "role": "Supporting / foil",
+        "mint_prompt": "cinematic character mint of 'Leo' (supporting): consistent face sheet, 3/4 + front + profile views, neutral expression + smile, wardrobe simple, anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade. Stable ID: CHAR_LEO \u2014 reuse in every prompt to prevent drift."
+      }
+    ],
+    "environments": [
+      {
+        "token": "ENV_HERO",
+        "name": "Hero location",
+        "mint_prompt": "cinematic environment mint: primary world for this ad, one key-light direction, lived-in detail, anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade. Stable ID: ENV_HERO."
+      },
+      {
+        "token": "ENV_B",
+        "name": "Contrast location",
+        "mint_prompt": "cinematic environment mint: contrasting second world (tighter, moodier) for problem/agitate beats, anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade. Stable ID: ENV_B."
+      }
+    ],
+    "mastery_applied": [
+      "1. Hook Patterns (0\u20133s) \u2014 **Pattern-interrupt:** open mid-action or with a frame that makes no sense yet; resolve wi",
+      "2. Structure & Beats \u2014 **15s:** Hook \u2192 Problem \u2192 Product-as-hero \u2192 Proof \u2192 single CTA.",
+      "3. Pacing & Editing \u2014 Cut every **1.2\u20132.0s** for UGC; **2.5\u20134s** for cinematic brand work.",
+      "4. Voiceover & Copy \u2014 2nd person, present tense. \"You\" arrives before \"we\"."
+    ],
+    "revisions_log": [],
+    "notes": [
+      "Built with Mastery.md v-current + Workflow.md \u00b7 @elements reserved (enable Higgsfield MCP in Settings)"
+    ]
+  },
+  "approvals": {
+    "storyboard": true,
+    "script_cta": true,
+    "shotlist": true,
+    "characters": true,
+    "environments": true
+  },
+  "images": [
+    {
+      "scene_id": "SC-01",
+      "asset_id": "IMG-SC-01-r1",
+      "prompt": "PATTERN-INTERRUPT \u2014 Maya \u2014 hands-first insert; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: hook (first frame readable at 10% brightness, per Mastery \u00a71) | style: anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade | beat: HOOK | duration context 3.0s | 16:9, ad-frame composition, space for captions \u00b7 minted refs (IDs locked): CHAR_MAYA, CHAR_LEO, ENV_HERO, ENV_B \u00b7 negative: no extra fingers, no warped text, no watermark, no logo drift, single character identity",
+      "file": "images\\SC-01.png",
+      "rev": 1,
+      "approved": true,
+      "qc": {
+        "status": "attention",
+        "notes": [
+          "Composition vs board SC-01: matched.",
+          "Minted identity applied from prompt refs.",
+          "Possible edge artifact / hand geometry risk \u2014 reroll or revise if visible at 100%.",
+          "Live mode: this becomes a true vision-model abnormality scan."
+        ],
+        "checked": "2026-09-23T21:13:17"
+      },
+      "history": []
+    },
+    {
+      "scene_id": "SC-02",
+      "asset_id": "IMG-SC-02-r1",
+      "prompt": "Leo \u2014 hands-first insert; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: problem | style: anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade | beat: PROBLEM | duration context 3.0s | 16:9, ad-frame composition, space for captions \u00b7 minted refs (IDs locked): CHAR_MAYA, CHAR_LEO, ENV_HERO, ENV_B \u00b7 negative: no extra fingers, no warped text, no watermark, no logo drift, single character identity",
+      "file": "images\\SC-02.png",
+      "rev": 1,
+      "approved": true,
+      "qc": {
+        "status": "pass",
+        "notes": [
+          "Composition vs board SC-02: matched.",
+          "Minted identity applied from prompt refs."
+        ],
+        "checked": "2026-09-23T21:13:18"
+      },
+      "history": []
+    },
+    {
+      "scene_id": "SC-03",
+      "asset_id": "IMG-SC-03-r1",
+      "prompt": "Maya \u2014 hands-first insert; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: proof | style: anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade | beat: PROOF | duration context 3.0s | 16:9, ad-frame composition, space for captions \u00b7 minted refs (IDs locked): CHAR_MAYA, CHAR_LEO, ENV_HERO, ENV_B \u00b7 negative: no extra fingers, no warped text, no watermark, no logo drift, single character identity",
+      "file": "images\\SC-03.png",
+      "rev": 1,
+      "approved": true,
+      "qc": {
+        "status": "pass",
+        "notes": [
+          "Composition vs board SC-03: matched.",
+          "Minted identity applied from prompt refs."
+        ],
+        "checked": "2026-09-23T21:13:18"
+      },
+      "history": []
+    },
+    {
+      "scene_id": "SC-04",
+      "asset_id": "IMG-SC-04-r1",
+      "prompt": "Leo \u2014 direct to camera; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: escalate | style: anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade | beat: ESCALATE | duration context 3.0s | 16:9, ad-frame composition, space for captions \u00b7 minted refs (IDs locked): CHAR_MAYA, CHAR_LEO, ENV_HERO, ENV_B \u00b7 negative: no extra fingers, no warped text, no watermark, no logo drift, single character identity",
+      "file": "images\\SC-04.png",
+      "rev": 1,
+      "approved": true,
+      "qc": {
+        "status": "pass",
+        "notes": [
+          "Composition vs board SC-04: matched.",
+          "Minted identity applied from prompt refs."
+        ],
+        "checked": "2026-09-23T21:13:18"
+      },
+      "history": []
+    },
+    {
+      "scene_id": "SC-05",
+      "asset_id": "IMG-SC-05-r1",
+      "prompt": "Maya \u2014 in profile, lit by window; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: problem | style: anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade | beat: PROBLEM | duration context 3.0s | 16:9, ad-frame composition, space for captions \u00b7 minted refs (IDs locked): CHAR_MAYA, CHAR_LEO, ENV_HERO, ENV_B \u00b7 negative: no extra fingers, no warped text, no watermark, no logo drift, single character identity",
+      "file": "images\\SC-05.png",
+      "rev": 1,
+      "approved": true,
+      "qc": {
+        "status": "pass",
+        "notes": [
+          "Composition vs board SC-05: matched.",
+          "Minted identity applied from prompt refs."
+        ],
+        "checked": "2026-09-23T21:13:18"
+      },
+      "history": []
+    },
+    {
+      "scene_id": "SC-06",
+      "asset_id": "IMG-SC-06-r1",
+      "prompt": "Leo \u2014 in profile, lit by window; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: agitate | style: anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade | beat: AGITATE | duration context 3.0s | 16:9, ad-frame composition, space for captions \u00b7 minted refs (IDs locked): CHAR_MAYA, CHAR_LEO, ENV_HERO, ENV_B \u00b7 negative: no extra fingers, no warped text, no watermark, no logo drift, single character identity",
+      "file": "images\\SC-06.png",
+      "rev": 1,
+      "approved": true,
+      "qc": {
+        "status": "pass",
+        "notes": [
+          "Composition vs board SC-06: matched.",
+          "Minted identity applied from prompt refs."
+        ],
+        "checked": "2026-09-23T21:13:19"
+      },
+      "history": []
+    },
+    {
+      "scene_id": "SC-07",
+      "asset_id": "IMG-SC-07-r1",
+      "prompt": "Maya \u2014 direct to camera; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: escalate | style: anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade | beat: ESCALATE | duration context 3.0s | 16:9, ad-frame composition, space for captions \u00b7 minted refs (IDs locked): CHAR_MAYA, CHAR_LEO, ENV_HERO, ENV_B \u00b7 negative: no extra fingers, no warped text, no watermark, no logo drift, single character identity",
+      "file": "images\\SC-07.png",
+      "rev": 1,
+      "approved": true,
+      "qc": {
+        "status": "attention",
+        "notes": [
+          "Composition vs board SC-07: matched.",
+          "Minted identity applied from prompt refs.",
+          "Possible edge artifact / hand geometry risk \u2014 reroll or revise if visible at 100%.",
+          "Live mode: this becomes a true vision-model abnormality scan."
+        ],
+        "checked": "2026-09-23T21:13:19"
+      },
+      "history": []
+    },
+    {
+      "scene_id": "SC-08",
+      "asset_id": "IMG-SC-08-r1",
+      "prompt": "Leo \u2014 in profile, lit by window; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: escalate | style: anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade | beat: ESCALATE | duration context 3.0s | 16:9, ad-frame composition, space for captions \u00b7 minted refs (IDs locked): CHAR_MAYA, CHAR_LEO, ENV_HERO, ENV_B \u00b7 negative: no extra fingers, no warped text, no watermark, no logo drift, single character identity",
+      "file": "images\\SC-08.png",
+      "rev": 1,
+      "approved": true,
+      "qc": {
+        "status": "attention",
+        "notes": [
+          "Composition vs board SC-08: matched.",
+          "Minted identity applied from prompt refs.",
+          "Possible edge artifact / hand geometry risk \u2014 reroll or revise if visible at 100%.",
+          "Live mode: this becomes a true vision-model abnormality scan."
+        ],
+        "checked": "2026-09-23T21:13:19"
+      },
+      "history": []
+    },
+    {
+      "scene_id": "SC-09",
+      "asset_id": "IMG-SC-09-r1",
+      "prompt": "Maya \u2014 mid-action, interrupted frame; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: escalate | style: anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade | beat: ESCALATE | duration context 3.0s | 16:9, ad-frame composition, space for captions \u00b7 minted refs (IDs locked): CHAR_MAYA, CHAR_LEO, ENV_HERO, ENV_B \u00b7 negative: no extra fingers, no warped text, no watermark, no logo drift, single character identity",
+      "file": "images\\SC-09.png",
+      "rev": 1,
+      "approved": true,
+      "qc": {
+        "status": "pass",
+        "notes": [
+          "Composition vs board SC-09: matched.",
+          "Minted identity applied from prompt refs."
+        ],
+        "checked": "2026-09-23T21:13:19"
+      },
+      "history": []
+    },
+    {
+      "scene_id": "SC-10",
+      "asset_id": "IMG-SC-10-r1",
+      "prompt": "Leo \u2014 hands-first insert; anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade; emphasis: cta | style: anamorphic 2.39:1, motivated practicals, volumetric haze, teal-orange filmic grade | beat: CTA | duration context 3.0s | 16:9, ad-frame composition, space for captions \u00b7 minted refs (IDs locked): CHAR_MAYA, CHAR_LEO, ENV_HERO, ENV_B \u00b7 negative: no extra fingers, no warped text, no watermark, no logo drift, single character identity",
+      "file": "images\\SC-10.png",
+      "rev": 1,
+      "approved": true,
+      "qc": {
+        "status": "attention",
+        "notes": [
+          "Composition vs board SC-10: matched.",
+          "Minted identity applied from prompt refs.",
+          "Possible edge artifact / hand geometry risk \u2014 reroll or revise if visible at 100%.",
+          "Live mode: this becomes a true vision-model abnormality scan."
+        ],
+        "checked": "2026-09-23T21:13:20"
+      },
+      "history": []
+    }
+  ],
+  "images_done": true,
+  "videos": {
+    "batches": [
+      {
+        "index": 0,
+        "approved": false,
+        "approved_at": null,
+        "clips": [
+          {
+            "scene_id": "SC-01",
+            "asset_id": "CLIP-SC-01-r1",
+            "motion": "whip-in from right \u00b7 subject: gentle head turn into a smile on the beat \u00b7 hold identity from IMG-SC-01-r1 \u00b7 3.0s, 24fps \u00b7 no morphing, keep on-screen space clean \u00b7 style lock: cinematic",
+            "file": "clips\\SC-01.gif",
+            "move": "pan-left",
+            "rev": 1,
+            "approved": true,
+            "history": [],
+            "source_image_rev": 1
+          },
+          {
+            "scene_id": "SC-02",
+            "asset_id": "CLIP-SC-02-r1",
+            "motion": "handheld follow \u00b7 subject: holds product up to lens, controlled rack focus \u00b7 hold identity from IMG-SC-02-r1 \u00b7 3.0s, 24fps \u00b7 no morphing, keep on-screen space clean \u00b7 style lock: cinematic",
+            "file": "clips\\SC-02.gif",
+            "move": "push-in",
+            "rev": 1,
+            "approved": false,
+            "history": [],
+            "source_image_rev": 1
+          },
+          {
+            "scene_id": "SC-03",
+            "asset_id": "CLIP-SC-03-r1",
+            "motion": "dutch tilt settle \u00b7 subject: subtle breath + blink, micro-expression shift \u00b7 hold identity from IMG-SC-03-r1 \u00b7 3.0s, 24fps \u00b7 no morphing, keep on-screen space clean \u00b7 style lock: cinematic",
+            "file": "clips\\SC-03.gif",
+            "move": "pull-out",
+            "rev": 1,
+            "approved": false,
+            "history": [],
+            "source_image_rev": 1
+          },
+          {
+            "scene_id": "SC-04",
+            "asset_id": "CLIP-SC-04-r1",
+            "motion": "dutch tilt settle \u00b7 subject: steps toward camera 10%, hands active \u00b7 hold identity from IMG-SC-04-r1 \u00b7 3.0s, 24fps \u00b7 no morphing, keep on-screen space clean \u00b7 style lock: cinematic",
+            "file": "clips\\SC-04.gif",
+            "move": "pan-right",
+            "rev": 1,
+            "approved": false,
+            "history": [],
+            "source_image_rev": 1
+          }
+        ]
+      }
+    ],
+    "done": false
+  },
+  "edit": {
+    "self": null,
+    "status": "idle",
+    "result": null
+  },
+  "package_approved": true
+}
